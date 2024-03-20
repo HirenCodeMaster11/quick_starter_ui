@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 <h1 align="left"></h1>
 
 <div align="center">
-  <img height="550" src="https://github.com/HirenCodeMaster11/quick_starter_ui/assets/148859956/f12eaa71-ce07-49fb-a7b8-bac5b1579591"  />
+  <img height="550"  src="https://github.com/HirenCodeMaster11/quick_starter_ui/assets/148859956/a50a90fe-259c-4d69-9d2f-3cc2e0f4194b" />
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@ samples, guidance on mobile development, and a full API reference.
 <h1 align="left"></h1>
 
 <div align="center">
-  <img height="550" src="https://github.com/HirenCodeMaster11/quick_starter_ui/assets/148859956/a50a90fe-259c-4d69-9d2f-3cc2e0f4194b"  />
+  <img height="550"  src="https://github.com/HirenCodeMaster11/quick_starter_ui/assets/148859956/f12eaa71-ce07-49fb-a7b8-bac5b1579591" />
 </div>
 
 <div align="center">
